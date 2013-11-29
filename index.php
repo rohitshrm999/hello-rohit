@@ -3,6 +3,6 @@ echo "Hello World";
 
 echo '<br>';
 
-echo "Hi Mansing";
+echo "Hi Mansi";
 
 ?>
