@@ -1,8 +1,6 @@
 <?php
-echo "Hello World";
+echo "12 Dec";
 
-echo '<br>';
-hjh
-echo "Hi Mansi";
+
 
 ?>
